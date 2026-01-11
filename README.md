@@ -87,22 +87,10 @@ Over the past few years, I’ve delivered **end-to-end solutions** across multip
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: **(add your LinkedIn URL)**
-- 🌐 Portfolio: **(add your website if you want)**
+- 💼 LinkedIn: **[(add your LinkedIn URL)](https://www.linkedin.com/in/razielnavarro/)**
+- 🌐 Portfolio: **[(add your website if you want)](https://www.razielnavarro.com/)**
 - 📩 Open to **remote opportunities** in:
   - Software Development  
   - Automation Engineering  
