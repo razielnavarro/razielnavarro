@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raziel Navarro</h1>
+<h1 align="center">Raziel Navarro</h1>
 <h3 align="center">Systems Engineering Student | Full-Stack Developer | Automation Engineer</h3>
 
 <p align="center">
