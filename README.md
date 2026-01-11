@@ -11,13 +11,13 @@
 
 I'm a **Systems Engineering student and Full-Stack Developer** passionate about building **high-performing, user-friendly, and scalable digital solutions**.
 
-I combine **traditional software development** with **low-code / no-code automation** to help businesses:
+I combine **traditional software development** with **low-code / no-code automation** and **CRM platforms** to help businesses:
 - Streamline operations  
 - Improve online presence  
 - Automate workflows  
 - Increase efficiency and revenue  
 
-Over the past few years, I’ve delivered **end-to-end solutions** across multiple industries — from **custom web applications** to **fully optimized WordPress & Shopify platforms**, and **complex automation pipelines** using modern cloud tooling.
+Over the past few years, I’ve delivered **end-to-end solutions** across multiple industries — from **custom web applications** to **fully optimized WordPress & Shopify platforms**, and **CRM-driven automation pipelines** using tools like **n8n, GoHighLevel, and HubSpot**.
 
 💡 I specialize in **bridging the gap between technical development and real business outcomes**.
 
@@ -27,10 +27,10 @@ Over the past few years, I’ve delivered **end-to-end solutions** across multip
 
 - ⚙️ Design & build **full-stack web applications**
 - ☁️ Develop **serverless & cloud-based backends**
-- 🔄 Automate workflows using **n8n & APIs**
+- 🔄 Automate workflows using **n8n, APIs, HubSpot & GoHighLevel**
 - 🛒 Optimize **WordPress & Shopify** stores
 - 🤖 Build **WhatsApp chatbots & integrations**
-- 📈 Support sales & operations with **technical solutions**
+- 📈 Support sales & operations with **CRM-backed technical solutions**
 
 ---
 
@@ -52,10 +52,11 @@ Over the past few years, I’ve delivered **end-to-end solutions** across multip
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-000?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
 
-### 🔄 Automation & Integrations
+### 🔄 Automation, CRMs & Integrations
 ![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n)
+![HubSpot](https://img.shields.io/badge/HubSpot-000?style=for-the-badge&logo=hubspot)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-000?style=for-the-badge)
 ![APIs](https://img.shields.io/badge/APIs-000?style=for-the-badge)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-000?style=for-the-badge&logo=googlesheets)
 ![WhatsApp Bots](https://img.shields.io/badge/WhatsApp_Bots-000?style=for-the-badge&logo=whatsapp)
 
 ### 🛒 CMS & E-Commerce
@@ -74,23 +75,23 @@ Over the past few years, I’ve delivered **end-to-end solutions** across multip
 ## 💼 Professional Experience Highlights
 
 - Built **Next.js + Cloudflare Workers** applications for real production use
-- Designed **n8n automations** integrating CRMs, APIs, and Google Sheets
+- Designed **n8n automations** integrating **HubSpot, GoHighLevel, and external APIs**
 - Developed **WhatsApp ordering & chatbot systems**
 - Administered and optimized **WordPress & Shopify** websites
-- Worked in **technical sales & customer support**, aligning tech with business needs
+- Supported **sales, marketing, and operations teams** through CRM automations and technical solutions
 
 ---
 
 ## 🎯 Keywords
 
-**Systems Engineer · Software Developer · Full Stack Developer · WordPress Developer · Shopify Developer · Cloudflare Workers · n8n Automations · No-Code Solutions · API Integrations · Next.js · React · TypeScript · JavaScript · E-commerce Optimization · SEO · Technical Sales**
+**Systems Engineer · Software Developer · Full Stack Developer · Automation Engineer · WordPress Developer · Shopify Developer · Cloudflare Workers · n8n Automations · HubSpot · GoHighLevel · CRM Integrations · No-Code Solutions · API Integrations · Next.js · React · TypeScript · JavaScript · E-commerce Optimization · SEO · Technical Sales**
 
 ---
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: **https://www.linkedin.com/in/razielnavarro/**
-- 🌐 Portfolio: **https://www.razielnavarro.com/**
+- 💼 **LinkedIn:** https://www.linkedin.com/in/razielnavarro/
+- 🌐 **Portfolio:** https://www.razielnavarro.com/
 - 📩 Open to **remote opportunities** in:
   - Software Development  
   - Automation Engineering  
