@@ -89,8 +89,8 @@ Over the past few years, I’ve delivered **end-to-end solutions** across multip
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: **(https://www.linkedin.com/in/razielnavarro/)**
-- 🌐 Portfolio: **(https://www.razielnavarro.com/)**
+- 💼 LinkedIn: **https://www.linkedin.com/in/razielnavarro/**
+- 🌐 Portfolio: **https://www.razielnavarro.com/**
 - 📩 Open to **remote opportunities** in:
   - Software Development  
   - Automation Engineering  
