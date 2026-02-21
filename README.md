@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a **Systems Engineering student and Full-Stack Developer** passionate about building **high-performing, user-friendly, and scalable digital solutions**.
+I'm a **Systems Engineer and Full-Stack Developer** passionate about building **high-performing, user-friendly, and scalable digital solutions**.
 
 I combine **traditional software development** with **low-code / no-code automation** and **CRM platforms** to help businesses:
 - Streamline operations  
